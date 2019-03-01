@@ -1,0 +1,15 @@
+{
+  "name": "othman/os_iframe",
+  "type": "typo3-cms-extension",
+  "description": " Plugin to render iframe Tag ",
+  "license": "proprietary",
+  "replace": {
+    "os_iframe": "self.version",
+    "os/iframe": "self.version"
+  },
+  "autoload": {
+    "psr-4": {
+      "OTHMAN\\OsIframe\\": "Classes/"
+    }
+  }
+}

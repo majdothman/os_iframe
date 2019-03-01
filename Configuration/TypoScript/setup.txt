@@ -1,0 +1,3 @@
+plugin.tx_osiframe_pi1 {
+    fileTemplate = EXT:os_iframe/Resources/Private/Templates/IFrame.html
+}

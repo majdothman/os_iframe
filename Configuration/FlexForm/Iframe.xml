@@ -1,0 +1,55 @@
+<T3DataStructure>
+    <meta>
+        <langDisable>1</langDisable>
+    </meta>
+    <sheets>
+        <sDEF>
+            <ROOT>
+                <TCEforms>
+                    <sheetTitle>sheet Title</sheetTitle>
+                </TCEforms>
+                <type>array</type>
+                <el>
+                    <url>
+                        <TCEforms>
+                            <label>Url</label>
+                            <config>
+                                <type>input</type>
+                            </config>
+                        </TCEforms>
+                    </url>
+
+                    <inlineStyle>
+                        <TCEforms>
+                            <label>Inline style</label>
+                            <config>
+                                <type>input</type>
+                                <placeholder>example: border: 1px solid red;</placeholder>
+                            </config>
+                        </TCEforms>
+                    </inlineStyle>
+
+                    <width>
+                        <TCEforms>
+                            <label>Width</label>
+                            <config>
+                                <type>input</type>
+                                <placeholder> Default is 100%</placeholder>
+                            </config>
+                        </TCEforms>
+                    </width>
+
+                    <height>
+                        <TCEforms>
+                            <label>Height</label>
+                            <config>
+                                <type>input</type>
+                                <placeholder> Default is 350px</placeholder>
+                            </config>
+                        </TCEforms>
+                    </height>
+                </el>
+            </ROOT>
+        </sDEF>
+    </sheets>
+</T3DataStructure>
